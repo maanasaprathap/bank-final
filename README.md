@@ -84,7 +84,7 @@ A complete **banking application** built with a modern tech stack: Spring Boot (
 ---
 
 ## 📽️ Based On
-This project is based on a YouTube tutorial series, but enhanced and organized as a personal full-stack project. All architecture, structure, and code modifications are handled by me, reflecting real-world development workflows.
+This project is inspired from a tutorial seris on youtube. All architecture, structure, and code modifications are handled by me, reflecting real-world development workflows.
 
 ---
 
